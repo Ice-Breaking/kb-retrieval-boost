@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- 项目自定义 ----
+data/raw/            # 原始政策文件（doc/docx/pdf），仅本地构建语料时使用，不入库
+models/              # 模型权重缓存目录
+.env                 # 存放 DASHSCOPE_API_KEY 等密钥
+.wucai/
+*.log
+.results_tmp/

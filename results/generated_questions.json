@@ -1,0 +1,3402 @@
+{
+ "tj_subsidy_2022#001": [
+  {
+   "question": "职业技能培训补贴的具体标准是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的金额是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的条件有哪些？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "职业技能培训补贴与其他补贴相比有什么不同？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "职业技能培训补贴的申请流程是怎样的？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#002": [
+  {
+   "question": "什么是天津市职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴多少钱？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴什么时候开始？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "补贴与失业保险有什么关系？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "补贴与就业补助资金管理办法有什么关系？",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_subsidy_2022#003": [
+  {
+   "question": "职业技能培训补贴是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的种类有哪些？",
+   "question_type": "直接问|条件问|对比问"
+  },
+  {
+   "question": "职业技能培训补贴的条件有哪些？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "职业技能培训补贴的具体内容有哪些？",
+   "question_type": "直接问|口语化"
+  },
+  {
+   "question": "职业技能培训补贴的范围有哪些？",
+   "question_type": "直接问|条件问|对比问"
+  }
+ ],
+ "tj_subsidy_2022#005": [
+  {
+   "question": "企业职工参加职业技能培训可享受补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "普通高校和职业学校（含技工学校）全日制毕业学年学生参加职业技能培训可享受补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "农村劳动力参加职业技能培训可享受补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "城镇登记失业人员参加职业技能培训可享受补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "享受灵活就业社保补贴的就业困难人员参加职业技能培训可享受补贴吗？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#006": [
+  {
+   "question": "职业技能培训补贴的主管部门是？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的主管部门是？（口语化）",
+   "question_type": "口语化"
+  },
+  {
+   "question": "职业技能培训补贴的主管部门是？（什么情况下可以）",
+   "question_type": "条件问"
+  },
+  {
+   "question": "职业技能培训补贴的主管部门是？（与另一情形相比）",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_subsidy_2022#007": [
+  {
+   "question": "什么是职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴多少钱？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴什么时候发放？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴和职业技能鉴定补贴有什么区别？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "职业技能培训补贴的申请条件是什么？",
+   "question_type": "条件问"
+  }
+ ],
+ "tj_subsidy_2022#008": [
+  {
+   "question": "什么是职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的经费保障情况如何？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的使用效益如何提高？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的范围有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的条件有哪些？",
+   "question_type": "条件问"
+  }
+ ],
+ "tj_subsidy_2022#009": [
+  {
+   "question": "什么是职业技能培训补贴目录制度？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "政府购买服务确定调查机构是什么意思？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市场需求职业、等级和培训成本的调查有什么作用？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "《市场紧缺职业需求程度及培训补贴标准目录》是怎么制定的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "《市场紧缺职业需求程度及培训补贴标准目录》会定期向社会公布吗？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#011": [
+  {
+   "question": "什么是职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加职业技能培训并鉴定合格后，可以获得多少鉴定费补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果参加培训并鉴定合格，鉴定费补贴的标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加《目录》内的职业技能培训并鉴定合格后，可以获得多少鉴定费补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加《目录》内的职业技能培训并鉴定合格后，可以获得多少鉴定费补贴？（具体金额）",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加《目录》内的职业技能培训并鉴定合格后，可以获得多少鉴定费补贴？（具体金额）",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加《目录》内的职业技能培训并鉴定合格后，可以获得多少鉴定费补贴？（具体金额）",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加《目录》内的职业技能培训并鉴定合格后，可以获得多少鉴定费补贴？（具体金额）",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加《目录》内的职业技能培训并鉴定合格后，可以获得多少鉴定费补贴？（具体金额）",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加《目录》内的职业技能培训并鉴定合格后，可以获得多少鉴定费补贴？（具体金额）",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#012": [
+  {
+   "question": "什么是就业困难人员？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是零就业家庭成员？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是城乡低保家庭成员？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是《目录》内职业技能培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是一次性生活费补贴？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#013": [
+  {
+   "question": "各类人员可直接参加哪些职业的技能培训及鉴定？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "参加《目录》内所列职业的初始等级技能培训及鉴定需要什么条件？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "参加更高等级技能培训需要什么条件？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "参加更高等级技能培训需要什么条件？（与初始等级相比）",
+   "question_type": "对比问"
+  },
+  {
+   "question": "参加《目录》内所列职业的初始等级技能培训及鉴定需要什么条件？（老百姓的说法）",
+   "question_type": "口语化"
+  }
+ ],
+ "tj_subsidy_2022#016": [
+  {
+   "question": "什么是职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么情况下可以享受职业技能培训补贴？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "补贴的次数限制是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴的等级限制是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "已享受高等级补贴的人员是否可以享受低等级补贴？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#017": [
+  {
+   "question": "什么是职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴的标准是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴的范围是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴的条件是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴的项目有哪些？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#018": [
+  {
+   "question": "定向就业培训的补贴标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "定向岗前培训的补贴标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "未就业人员参加定向就业培训后，需要满足什么条件才能享受补贴？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "本市企业新招录员工参加定向岗前培训后，需要满足什么条件才能享受补贴？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "定向培训补贴每人每年可享受几次？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#019": [
+  {
+   "question": "什么是定向就业培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是定向岗前培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公共实训基地、职业学校和信用等级为A+的民办职业培训机构承担什么培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业培训中心、公共实训基地、职业学校和信用等级为A+的民办职业培训机构承担什么培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴拨付承担培训的机构是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴拨付企业是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "定向就业培训和定向岗前培训有什么区别？",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_subsidy_2022#020": [
+  {
+   "question": "市级产业链重点企业和产业人才创新创业联盟企业可以给予企业培训补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市级产业链重点企业和产业人才创新创业联盟企业可以自主制定培训方案吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市级产业链重点企业和产业人才创新创业联盟企业可以自主制定培训方案，培训满40课时，按照每人1000元标准给予企业培训补贴，每人每年可参加一次吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市级产业链重点企业和产业人才创新创业联盟企业可以自主制定培训方案，培训满40课时，按照每人1000元标准给予企业培训补贴，每人每年可参加一次，与本企业培训中心、职业学校、公共实训基地开展项目制培训的企业相比，有什么不同？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "市级产业链重点企业和产业人才创新创业联盟企业可以自主制定培训方案，培训满40课时，按照每人1000元标准给予企业培训补贴，每人每年可参加一次，与产业人才创新创业联盟企业依托联盟内职业学校开展项目制培训的企业相比，有什么不同？",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_subsidy_2022#021": [
+  {
+   "question": "什么是天津市职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本市户籍人员或非本市户籍人员在本市初次或复审取得特种作业操作证后，可以申请什么补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴的标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴的标准是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴的标准是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#023": [
+  {
+   "question": "名师带徒培训的资助条件是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "师傅可以带多少名学徒？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "学徒培训期满后，每名学徒每满12个月可以获得多少资助？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "最长可以获得多少个月的资助？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "学徒取得高一等级职业资格或技能等级证书后，每名学徒每满12个月可以获得多少资助？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#024": [
+  {
+   "question": "创业培训机构开展创业培训可以享受哪些补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "创业培训机构开展创业培训可以享受哪些补贴？（老百姓的说法）",
+   "question_type": "口语化"
+  },
+  {
+   "question": "创业培训机构开展创业培训可以享受哪些补贴？（什么情况下可以）",
+   "question_type": "条件问"
+  },
+  {
+   "question": "创业培训机构开展创业培训可以享受哪些补贴？（与另一情形相比）",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_subsidy_2022#025": [
+  {
+   "question": "什么是培训费补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是鉴定费补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是定向培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是项目制培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是企业新型学徒制培训补贴？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#026": [
+  {
+   "question": "生活费补贴的申请流程是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "生活费补贴的申请需要哪些材料？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "生活费补贴的发放条件是什么？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "生活费补贴的发放流程是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "生活费补贴的发放标准是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#027": [
+  {
+   "question": "什么是安全技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "取证人员需要满足哪些条件？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "取证人员需要提供哪些信息？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "取证人员需要提供哪些信息？（口语化）",
+   "question_type": "口语化"
+  },
+  {
+   "question": "取证人员需要提供哪些信息？（与另一情形相比）",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_subsidy_2022#028": [
+  {
+   "question": "名师带徒培训补贴的申请程序是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "名师带徒培训补贴的申请条件有哪些？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "名师带徒培训补贴的申请流程是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "名师带徒培训补贴的申请需要哪些材料？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "名师带徒培训补贴的申请周期是多久？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#030": [
+  {
+   "question": "什么是职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴资金预算怎么确定？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "补贴资金分配计划怎么确定？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "补贴资金分配方案怎么确定？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "补贴资金拨付方式有哪些？",
+   "question_type": "直接问|口语化|条件问"
+  }
+ ],
+ "tj_subsidy_2022#033": [
+  {
+   "question": "职业技能培训补贴政策",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴政策的细则",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴政策的条件",
+   "question_type": "条件问"
+  },
+  {
+   "question": "职业技能培训补贴政策的对比",
+   "question_type": "对比问"
+  },
+  {
+   "question": "职业技能培训补贴政策的审批流程",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#035": [
+  {
+   "question": "政策条款是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "政策条款多少钱？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "政策条款什么时候开始施行？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "政策条款什么时候结束？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "政策条款与另一情形相比？",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_supervise_2022#003": [
+  {
+   "question": "什么是职业技能培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是补贴培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训有哪些特点？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "补贴培训和普通培训有什么区别？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "补贴培训需要满足哪些条件？",
+   "question_type": "条件问"
+  }
+ ],
+ "tj_supervise_2022#004": [
+  {
+   "question": "什么是补贴培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的监督检查和违规处理等适用本办法吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的监督检查和违规处理等是针对什么的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的监督检查和违规处理等是针对培训机构的吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的监督检查和违规处理等是针对培训机构的吗？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#005": [
+  {
+   "question": "补贴培训的培训机构应当实行什么管理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的培训机构应当实行什么协议管理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的培训机构应当实行什么规定执行？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的培训机构应当实行什么协议管理，具体按照什么相关规定执行？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的培训机构应当实行什么协议管理，具体按照《天津市承接政府补贴职业培训机构协议管理办法》相关规定执行？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#006": [
+  {
+   "question": "市人社局是全市补贴培训监管工作的主管部门，主要承担哪些职责？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局在补贴培训监管工作中有哪些职责？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局在补贴培训监管工作中具体承担哪些职责？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局在补贴培训监管工作中主要负责哪些职责？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局在补贴培训监管工作中具体承担哪些职责？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#010": [
+  {
+   "question": "什么是补贴培训监管机制？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训监管机制包括哪些方式？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "补贴培训监管机制中有哪些具体检查方式？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "补贴培训监管机制中有哪些社会监督方式？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "补贴培训监管机制中有哪些第三方核查方式？",
+   "question_type": "直接问|条件问"
+  }
+ ],
+ "tj_supervise_2022#011": [
+  {
+   "question": "日常检查由谁组织实施？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "日常检查采取哪些方式？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "日常检查要覆盖哪些内容？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "日常检查要覆盖哪些范围？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "日常检查要覆盖哪些情况？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#012": [
+  {
+   "question": "什么是按比例抽查?",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是补贴培训班期?",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市就业服务中心组织实施的是什么?",
+   "question_type": "直接问"
+  },
+  {
+   "question": "抽查范围是全市补贴培训班期吗?",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训班期有什么特点?",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#013": [
+  {
+   "question": "什么是日常检查？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是比例抽查？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "检查人员需要多少人？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "检查结果需要公开吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "检查组需要随机确定吗？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#015": [
+  {
+   "question": "什么是远程监控？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "远程监控有什么作用？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "远程监控是通过什么手段实现的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "远程监控在补贴培训中有什么应用？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "远程监控在补贴培训中的作用是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#016": [
+  {
+   "question": "什么是职业技能培训监督管理暂行办法？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "政策条款是关于什么的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局委托第三方机构核查什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局核查的第三方机构通过哪些方式？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "核查的内容是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#017": [
+  {
+   "question": "投诉举报处理应遵守哪些保密规定？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "投诉举报处理时，举报人合法权益如何保护？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "投诉举报时，举报人如何保护自己的合法权益？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "投诉举报时，举报人如何保护自己的合法权益？（口语化）",
+   "question_type": "口语化"
+  },
+  {
+   "question": "投诉举报时，举报人如何保护自己的合法权益？（与另一情形相比）",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_supervise_2022#019": [
+  {
+   "question": "什么是民办职业培训机构的信用等级评价？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "民办职业培训机构的信用等级评价依据是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "民办职业培训机构的信用等级评价和年度培训质量评估有什么关系？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "民办职业培训机构的信用等级评价和联合奖惩有什么关系？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "民办职业培训机构的信用等级评价会受到哪些影响？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#021": [
+  {
+   "question": "培训机构班期培训人数超过规定上限或出勤率不足80%怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "学员考勤签到表、学员培训协议书、教案等资料不完整或填写不规范怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "课堂秩序混乱，疏于管理怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "擅自变更申报教师怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "通过利诱等方式违规招收学员怎么办？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#023": [
+  {
+   "question": "培训机构提交虚假申报材料怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构不参加质量评估怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构未落实安全规定怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构发布虚假招生简章怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构当年不合格班期比例超过20%怎么办？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#025": [
+  {
+   "question": "培训机构整改期间不得开展补贴培训吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "认定违规的人员或班期不予补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "已经发放的补贴由区人社局责令培训机构退回吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构整改期间可以开展补贴培训吗？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "培训机构整改期间可以发放补贴吗？",
+   "question_type": "条件问"
+  }
+ ],
+ "tj_supervise_2022#027": [
+  {
+   "question": "什么是监管制度和措施？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "监管制度和措施应该怎样制定？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "监管制度和措施应该符合什么程序？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "监管制度和措施应该报什么部门？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "监管制度和措施应该保障什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#028": [
+  {
+   "question": "市就业服务中心应当落实什么责任？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市就业服务中心应当制定什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市就业服务中心应当制定什么工作流程？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市就业服务中心应当制定什么监管方案？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市就业服务中心应当报什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#030": [
+  {
+   "question": "什么是职业技能培训监督管理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局对区人社局、市就业服务中心监管工作开展情况如何？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局是否定期检查区人社局和市就业服务中心的补贴培训监管工作？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局是否定期听取区人社局和市就业服务中心的补贴培训监管情况汇报？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局是否根据工作需要专题听取区人社局和市就业服务中心的补贴培训监管情况汇报？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#031": [
+  {
+   "question": "落实国家和本市职业技能培训补贴政策不到位或不及时的情形",
+   "question_type": "直接问"
+  },
+  {
+   "question": "区级监管制度不健全，缺乏有效监管手段的情形",
+   "question_type": "直接问"
+  },
+  {
+   "question": "未按规定开展日常检查，或日常检查流于形式的情形",
+   "question_type": "直接问"
+  },
+  {
+   "question": "未按要求留存培训班期档案资料，或档案资料管理混乱的情形",
+   "question_type": "直接问"
+  },
+  {
+   "question": "未认真开展民办职业培训机构质量评估，或评估结果不客观公正的情形",
+   "question_type": "直接问"
+  },
+  {
+   "question": "对举报投诉不认真核查处理，或举报投诉经查实较多的情形",
+   "question_type": "直接问"
+  },
+  {
+   "question": "对培训机构违规行为未按规定进行处理的情形",
+   "question_type": "直接问"
+  },
+  {
+   "question": "其他监管不到位的情形",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#032": [
+  {
+   "question": "市就业服务中心在监管工作中，存在哪些情形的，由市人社局视情节进行工作约谈、情况通报或依法将问题线索移送有关部门？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市就业服务中心在监管工作中，未按规定开展检查，或检查流于形式的，是否属于履行职责不到位的情形？",
+   "question_type": "直接问|口语化"
+  },
+  {
+   "question": "市就业服务中心在监管工作中，未按要求推动补贴培训工作，或相关任务落实不力的，是否属于履行职责不到位的情形？",
+   "question_type": "直接问|口语化"
+  },
+  {
+   "question": "市就业服务中心在监管工作中，未及时维护补贴培训监管信息系统，是否属于履行职责不到位的情形？",
+   "question_type": "直接问|口语化"
+  },
+  {
+   "question": "市就业服务中心在监管工作中，未按要求统计核查补贴培训资金使用情况，是否属于履行职责不到位的情形？",
+   "question_type": "直接问|口语化"
+  }
+ ],
+ "tj_supervise_2022#033": [
+  {
+   "question": "什么是不履职尽责？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是滥用职权？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是权钱交易？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是玩忽职守？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是徇私舞弊？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是违规？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是违纪？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是违法？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是处理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是补贴培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是工作人员？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是人社局？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是就业服务中心？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在不履职尽责？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在滥用职权？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在权钱交易？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在玩忽职守？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在徇私舞弊？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在违规？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在违纪？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在违法？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在处理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在补贴培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在工作人员？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在人社局？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在就业服务中心？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在不履职尽责？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在滥用职权？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在权钱交易？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在玩忽职守？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在徇私舞弊？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在违规？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在违纪？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在违法？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在处理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在补贴培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在工作人员？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在人社局？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在就业服务中心？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在培训监管？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在培训监管中？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在培训监管中存在？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在培训监管中存在不履职尽责？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在培训监管中存在滥用职权？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在培训监管中存在权钱交易？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是培训监管中存在培训监管中存在培训监管中存在玩忽职守？",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_supervise_2022#035": [
+  {
+   "question": "本办法自何时起施行？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法有效期至何时？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法废止的文件是？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法与市政府补贴职业培训违规行为处理办法有什么区别？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "本办法与《市人力社保局关于印发天津市政府补贴职业培训违规行为处理办法（试行）的通知》同时废止？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#001": [
+  {
+   "question": "什么是天津市职业培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "天津市职业培训补贴的补贴对象是谁？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "天津市职业培训补贴的补贴标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "天津市职业培训补贴的申请条件有哪些？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "天津市职业培训补贴的申请流程是怎样的？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#002": [
+  {
+   "question": "什么是天津市职业培训补贴的对象？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "法定劳动年龄内哪些人员可以申请职业培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "哪些人员可以申请职业培训补贴？",
+   "question_type": "口语化"
+  },
+  {
+   "question": "申请职业培训补贴需要满足哪些条件？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "申请职业培训补贴与哪些人员相关？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "申请职业培训补贴的对象有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "申请职业培训补贴需要哪些人员符合条件？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "申请职业培训补贴的条件有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "申请职业培训补贴的对象有哪些类型？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "申请职业培训补贴的对象有哪些类别？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#003": [
+  {
+   "question": "职业院校可以承接哪些职业的培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公共实训机构可以承接哪些职业的培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训机构可以承接哪些职业的培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业培训中心和公共实训基地可以承接哪些职业的培训？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业公共实训基地开展企业内训的培训费和鉴定费补贴如何？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业公共实训基地对外企业职工开展培训的培训费和鉴定费补贴如何？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业公共实训基地对企业内训的培训费和鉴定费补贴上浮比例是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业公共实训基地对企业职工培训的培训费和鉴定费补贴上浮比例是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业公共实训基地对企业内训的培训费和鉴定费补贴上浮比例是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业公共实训基地对企业职工培训的培训费和鉴定费补贴上浮比例是多少？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#007": [
+  {
+   "question": "什么是实施性培训计划？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "理论课时和实操课时各占总课时的多少比例？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "定向培训和专项职业能力培训的总课时分别是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "上课地点有哪几种情况？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "单机版培训班报盘数据需要包含哪些文件？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#009": [
+  {
+   "question": "什么是天津市职业培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "天津市职业培训补贴的条件有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "天津市职业培训补贴的金额是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "天津市职业培训补贴的申请流程是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "天津市职业培训补贴的申请需要哪些材料？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#012": [
+  {
+   "question": "什么是现场检查？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是视频回放核查？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "现场检查有哪些内容和要求？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "视频回放核查有哪些内容和要求？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "现场检查和视频回放核查有什么区别？",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_ops_manual#013": [
+  {
+   "question": "总课时80，理论课程按照总课时的20%计算，为16课时，以每天8课时每周一天的理论课为例，记录表中需要记录6个时间段，分别为：上午点名时；上午第一阶段授课时段（课间休息时间除外）；上午第二阶段授课时段；下午点名时；下午第一阶段授课时段（课间休息时间除外）；下午第二阶段授课时段。",
+   "question_type": "直接问"
+  },
+  {
+   "question": "视频监控管理检查表记录项的核查要结合津人社局发〔2018〕44号进行。",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训班期当日出勤率低于80%的班期，按不合格处理且不给予培训补贴；学员个人出勤率低于80%的，不得享受培训补贴。",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市职业培训指导中心负责各区人社局培训管理部门各项业务的指导与服务；不定期对各项业务进行督导检查；定期开展业务培训、研讨座谈等。",
+   "question_type": "直接问"
+  },
+  {
+   "question": "监督与管理，按照《关于进一步加强对职业技能培训过程监管的通知》相关规定执行。",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#014": [
+  {
+   "question": "职业技能鉴定",
+   "question_type": "直接问"
+  },
+  {
+   "question": "技能等级考核",
+   "question_type": "直接问"
+  },
+  {
+   "question": "企业自主评价",
+   "question_type": "直接问"
+  },
+  {
+   "question": "专项职业能力考核",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能鉴定、技能等级考核、企业自主评价和专项职业能力考核",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#016": [
+  {
+   "question": "生活费补贴发放条件是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "生活费补贴的发放对象有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "生活费补贴的发放时间限制是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "生活费补贴的发放标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "生活费补贴的发放流程是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#017": [
+  {
+   "question": "补贴培训项目是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训地点在哪里？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训期限是多久？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训内容是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训地点和期限是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#018": [
+  {
+   "question": "补贴培训日常管理、指导服务、督导、绩效评估以及相关检查、监管是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "甲方在收到乙方补贴经费申请后，应该如何处理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "甲方在与乙方签约后，应该及时向社会公布乙方哪些信息？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "甲方对乙方违反国家及本市有关违约违规行为的处理结果，应该告知乙方吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训日常管理、指导服务、督导、绩效评估以及相关检查、监管有什么要求？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#019": [
+  {
+   "question": "乙方应根据补贴培训项目相应的职业标准和教学计划、大纲制定授课计划，建立班期档案，自主开展职业技能培训。",
+   "question_type": "直接问"
+  },
+  {
+   "question": "乙方应按规定核实参训人员身份、晋升职业资格（技能等级）等级条件，验收相关材料，并与其签订培训协议书。",
+   "question_type": "直接问"
+  },
+  {
+   "question": "对符合补贴培训条件的学员，乙方应做好培训咨询和指导服务工作。",
+   "question_type": "直接问"
+  },
+  {
+   "question": "乙方应根据补贴培训有关规定，为符合补贴条件的学员及时申请相应的补贴经费。",
+   "question_type": "直接问"
+  },
+  {
+   "question": "乙方不得擅自更改培训场地及设施设备用途及数量。",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#021": [
+  {
+   "question": "本市补贴培训目录调整后，哪些项目协议自动失效？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果乙方实际办学条件发生变化，项目不符合设置标准及签约条件，项目协议会终止吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果乙方发生分立、合并或终止办学，本协议会自动变更或终止吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果甲乙双方就其他未尽事宜订立补充条款，这些条款是否与协议具有同等的法律效力？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果在履行本协议过程中发生争议，甲乙双方可以协商解决，还是只能向人民法院提起诉讼？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#022": [
+  {
+   "question": "什么是职业培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训补贴的金额是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训补贴的条件是什么？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "职业培训补贴与其他情形相比有什么不同？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "职业培训补贴的申请流程是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#023": [
+  {
+   "question": "职业（工种）等级有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "初级、中级、高级、技师、高级技师、预备技师、专项职业能力分别对应的职业（工种）等级有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果职业（工种）等级是初级，那么对应的工种名称是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果职业（工种）等级是中级，那么对应的工种名称是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果职业（工种）等级是高级，那么对应的工种名称是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#024": [
+  {
+   "question": "什么是职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的申请条件有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的申请流程是怎样的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的申请需要哪些材料？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的申请流程包括哪些步骤？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_catalog_2024#002": [
+  {
+   "question": "什么是绿色职业？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是数字职业？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是绿色职业和数字职业？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "绿色职业和数字职业有什么区别？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "绿色职业和数字职业有什么区别？（口语化）",
+   "question_type": "口语化"
+  }
+ ],
+ "tj_catalog_2026#001": [
+  {
+   "question": "什么是绿色职业？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是数字职业？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是本职业标准？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是本职业标准设置的等级？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是本职业标准未设置的等级？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_catalog_2026#003": [
+  {
+   "question": "非常紧缺职业补贴标准",
+   "question_type": "直接问"
+  },
+  {
+   "question": "紧缺职业补贴标准",
+   "question_type": "直接问"
+  },
+  {
+   "question": "一般紧缺职业补贴标准",
+   "question_type": "直接问"
+  },
+  {
+   "question": "非常紧缺职业补贴",
+   "question_type": "口语化"
+  },
+  {
+   "question": "紧缺职业补贴",
+   "question_type": "口语化"
+  }
+ ],
+ "national_fund_2023#001": [
+  {
+   "question": "就业补助资金管理办法是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法有哪些内容？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法有哪些附件？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的修订背景是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的修订依据是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#002": [
+  {
+   "question": "就业补助资金管理办法的主要目的",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的主要内容",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的实施对象",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的适用范围",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的管理原则",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#003": [
+  {
+   "question": "什么是就业补助资金？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金由谁设立？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金由谁管理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金是通过什么方式安排的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金用于什么目的？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#004": [
+  {
+   "question": "就业补助资金管理的原则是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金的重点支持哪些群体？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金如何促进公平就业？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金如何推动地区间就业协同发展？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金如何优化机制设计？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#005": [
+  {
+   "question": "就业补助资金分为哪两类？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金分为哪两类？老百姓的说法是？",
+   "question_type": "口语化"
+  },
+  {
+   "question": "就业补助资金分为哪两类？什么情况下可以享受？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "就业补助资金分为哪两类？与失业保险补贴有重复的，个人和单位可以同时享受吗？",
+   "question_type": "对比问"
+  }
+ ],
+ "national_fund_2023#006": [
+  {
+   "question": "什么是职业培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "享受职业培训补贴的人员范围有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训补贴用于哪些方面？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "对参加就业技能培训和创业培训的六类人员，职业培训补贴的标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "对为城乡未继续升学的应届初高中毕业生垫付劳动预备制培训费的培训机构，可获得的职业培训补贴标准是多少？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#007": [
+  {
+   "question": "职业技能评价补贴的条件是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能评价补贴的标准是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能评价补贴的次数限制是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能评价补贴的范围有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能评价补贴的条件有哪些？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#008": [
+  {
+   "question": "享受就业见习补贴的人员范围是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "对吸纳就业见习的单位给予什么标准的就业见习补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业见习补贴用于支付什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "见习人员见习期满留用率达到50%以上的单位可以享受什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业见习补贴的标准是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#009": [
+  {
+   "question": "毕业生求职补贴的条件是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "毕业生求职补贴的对象有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "毕业生求职补贴的发放对象有哪些？",
+   "question_type": "口语化"
+  },
+  {
+   "question": "毕业生求职补贴的发放对象有哪些？（与另一情形相比）",
+   "question_type": "对比问"
+  },
+  {
+   "question": "毕业生求职补贴的发放对象有哪些？（什么情况下可以）",
+   "question_type": "条件问"
+  }
+ ],
+ "national_fund_2023#012": [
+  {
+   "question": "就业困难人员的范围有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "大龄失业人员和零就业家庭人员可以享受公益性岗位补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公益性岗位补贴的标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公益性岗位补贴的期限最长可以是多少年？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公益性岗位补贴期满后，还能再安置一次吗？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#013": [
+  {
+   "question": "就业创业服务补助资金用于哪些方面？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "县级以上人力资源社会保障、财政部门如何使用就业创业服务补助资金？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "基层公共就业服务机构承担的免费公共就业服务和创业孵化服务可以得到补助吗？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "公共就业创业服务机构及其与高校开展的招聘活动和创业服务可以得到补助吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "县级以上人力资源社会保障、财政部门可否向社会购买基本就业创业服务？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#014": [
+  {
+   "question": "什么是高技能人才培养补助资金？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补助资金重点用于哪些方面？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补助资金可用于哪些活动？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补助资金的使用范围由谁确定？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补助资金的重点用于哪些单位？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#015": [
+  {
+   "question": "其他支出是指什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "其他支出包括哪些情况？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "其他支出与现有补贴政策相比有什么不同？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "其他支出需要符合什么条件？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "其他支出需要符合什么规定？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#018": [
+  {
+   "question": "什么是因素法分配的资金？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是项目法分配的资金？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "因素法分配的资金是如何划分的？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "项目法分配的资金是如何确定支持对象的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "促进就业工作先进地区在分配中央财政就业补助资金时会得到什么支持？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#019": [
+  {
+   "question": "什么是基础因素权重？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是投入因素权重？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是工作成果因素权重？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么是重点工作因素权重？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "基础因素权重是多少？",
+   "question_type": "直接问|口语化"
+  },
+  {
+   "question": "投入因素权重是多少？",
+   "question_type": "直接问|口语化"
+  },
+  {
+   "question": "工作成果因素权重是多少？",
+   "question_type": "直接问|口语化"
+  },
+  {
+   "question": "重点工作因素权重是多少？",
+   "question_type": "直接问|口语化"
+  },
+  {
+   "question": "基础因素权重是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "投入因素权重是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "工作成果因素权重是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "重点工作因素权重是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "基础因素权重是多少？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "投入因素权重是多少？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "工作成果因素权重是多少？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "重点工作因素权重是多少？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "基础因素权重是多少？",
+   "question_type": "直接问|对比问"
+  },
+  {
+   "question": "投入因素权重是多少？",
+   "question_type": "直接问|对比问"
+  },
+  {
+   "question": "工作成果因素权重是多少？",
+   "question_type": "直接问|对比问"
+  },
+  {
+   "question": "重点工作因素权重是多少？",
+   "question_type": "直接问|对比问"
+  },
+  {
+   "question": "基础因素权重是多少？",
+   "question_type": "直接问|对比问"
+  },
+  {
+   "question": "投入因素权重是多少？",
+   "question_type": "直接问|对比问"
+  },
+  {
+   "question": "工作成果因素权重是多少？",
+   "question_type": "直接问|对比问"
+  },
+  {
+   "question": "重点工作因素权重是多少？",
+   "question_type": "直接问|对比问"
+  }
+ ],
+ "national_fund_2023#020": [
+  {
+   "question": "因素法分配中央财政就业补助资金时，人力资源社会保障部负责提供哪些数据？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "因素法分配中央财政就业补助资金时，财政部负责收集哪些数据？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "因素法分配中央财政就业补助资金时，地方各级人力资源社会保障、财政部门向上级单位报送分配资金相关基础数据时，需要明确什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "因素法分配中央财政就业补助资金时，各单位对所提供数据的准确性、完整性、及时性负责，具体是指什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "因素法分配中央财政就业补助资金时，与另一情形相比，人力资源社会保障部和财政部分别负责哪些数据？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#021": [
+  {
+   "question": "地方可对公共就业服务能力建设补助资金中的高技能人才培养补助资金实行项目管理吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么情况下可以对公共就业服务能力建设补助资金中的高技能人才培养补助资金实行项目管理？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "高技能人才培养补助资金实行项目管理的目的是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "地方人力资源社会保障部门应编制什么来确定本地区支持的高技能人才重点领域？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "省级人力资源社会保障部门每年需会同财政部门组织专家对地方申报的国家级高技能人才培养项目进行评审，评审结果需报人力资源社会保障部、财政部备案，省级财政部门会同人力资源社会保障部门根据备案结果给予分类分档补助。",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#023": [
+  {
+   "question": "就业补助资金的预算绩效管理包括哪些方面？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金的绩效目标设定和审核流程是怎样的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金的绩效监控和评价机制有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金的绩效结果应用有哪些措施？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金的绩效信息公开有哪些要求？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#024": [
+  {
+   "question": "什么是就业补贴政策清单？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "申请就业补贴需要哪些材料？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补贴政策清单的申领流程是什么？",
+   "question_type": "口语化"
+  },
+  {
+   "question": "就业补贴政策清单的经办渠道有哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金使用管理的基础工作有哪些？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#025": [
+  {
+   "question": "中央财政就业补助资金按规定直达市县基层吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "资金使用过程中，需要按照政府采购有关法律法规及制度执行吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "各级财政、人力资源社会保障部门应加快预算执行进度，及时拨付到位，提高资金使用效益吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "结转结余资金管理按照财政部有关规定执行吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "资金使用过程中，涉及政府采购的，应按照政府采购有关法律法规及制度执行吗？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#026": [
+  {
+   "question": "地方各级财政、人力资源社会保障部门应l建立健全什么规章制度？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "地方各级财政、人力资源社会保障部门应l强化什么财务管理？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "地方各级财政、人力资源社会保障部门应l落实什么权限分设和权限不相容要求？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "地方各级财政、人力资源社会保障部门应l优化什么业务流程？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "地方各级财政、人力资源社会保障部门应l加强什么风险防控？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#027": [
+  {
+   "question": "就业补助资金管理办法第二十六条有哪些规定？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "各级财政和人力资源社会保障部门如何开展就业补助资金管理使用情况的监督检查？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法第二十六条规定了哪些检查方式？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法第二十六条如何接受社会监督？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法第二十六条规定了哪些检查方式？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#029": [
+  {
+   "question": "公益性岗位补贴公开内容包括哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "一次性求职补贴发放前需要公示什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "各级人力资源社会保障、财政部门应遵守哪些法规制度？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业工作总体目标、工作任务完成情况公开内容包括哪些？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴资金的使用情况公开内容包括哪些？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#030": [
+  {
+   "question": "什么是就业补助资金的使用责任追究机制？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "如果财政和人社部门工作人员违反规定，会有什么后果？",
+   "question_type": "直接问|条件问|对比问"
+  },
+  {
+   "question": "如果财政和人社部门工作人员滥用职权，会有什么后果？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "如果财政和人社部门工作人员玩忽职守，会有什么后果？",
+   "question_type": "直接问|条件问"
+  },
+  {
+   "question": "如果财政和人社部门工作人员私舞弊，会有什么后果？",
+   "question_type": "直接问|条件问"
+  }
+ ],
+ "national_fund_2023#032": [
+  {
+   "question": "中央财政就业补助资金相关支出实施期限到什么时候？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么时候开展绩效评估？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么时候延续补助政策？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "什么时候延续补助政策，延续期限是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "中央财政就业补助资金相关支出实施期限到什么时候，什么时候开展绩效评估，什么时候延续补助政策，延续期限是多少？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#033": [
+  {
+   "question": "本办法自什么时候起施行？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法的废止时间是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法废止的原因是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法废止后，其他文件是否继续有效？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法的废止与其他文件的关系是什么？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#004": [
+  {
+   "question": "职业技能培训补贴的申请条件是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的补贴标准是多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的申请流程是怎样的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的申请时间期限是多久？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的申请需要提交哪些材料？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴的申请结果需要多久能到账？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#010": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴标准",
+   "question_type": "直接问"
+  },
+  {
+   "question": "紧缺程度",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴比例",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#014": [
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "钱发给谁？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "多久能到账？",
+   "question_type": "条件问"
+  }
+ ],
+ "tj_subsidy_2022#015": [
+  {
+   "question": "公共实训基地的企业培训中心可以享受多高的职业技能培训补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公共实训基地的企业培训中心能享受多少比例的培训费补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公共实训基地的企业培训中心可以享受多少比例的补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公共实训基地的企业培训中心能享受多高的补贴标准？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公共实训基地的企业培训中心能享受多少比例的上浮补贴？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "公共实训基地的企业培训中心能享受多少比例的补贴上浮？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#022": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "直接问"
+  },
+  {
+   "question": "能拿什么证书",
+   "question_type": "直接问"
+  },
+  {
+   "question": "能拿多少证书",
+   "question_type": "直接问"
+  },
+  {
+   "question": "能拿什么证书",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#029": [
+  {
+   "question": "职业技能培训补贴能拿多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#031": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴怎么申请",
+   "question_type": "对比问"
+  },
+  {
+   "question": "培训机构能拿补贴吗",
+   "question_type": "直接问"
+  },
+  {
+   "question": "个人能拿补贴吗",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_subsidy_2022#032": [
+  {
+   "question": "市级职业技能公共实训基地能获得多少资金支持？",
+   "question_type": "直接问|口语化|金额问"
+  },
+  {
+   "question": "其他公共实训基地能获得设施设备购置费支持吗？",
+   "question_type": "直接问|口语化|条件问"
+  },
+  {
+   "question": "其他公共实训基地能获得多少资金支持？",
+   "question_type": "直接问|口语化|金额问"
+  },
+  {
+   "question": "其他公共实训基地能获得设施设备维护保养支持吗？",
+   "question_type": "直接问|口语化|条件问"
+  },
+  {
+   "question": "其他公共实训基地能获得日常运行支持吗？",
+   "question_type": "直接问|口语化|条件问"
+  },
+  {
+   "question": "其他公共实训基地能获得多少资金支持？",
+   "question_type": "直接问|口语化|金额问"
+  }
+ ],
+ "tj_subsidy_2022#034": [
+  {
+   "question": "职业技能公共实训基地的服务能力提升经费可以从培训资金中列支吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训管理经费可以从培训资金中列支吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能公共实训基地的服务能力提升和管理经费可以从培训资金中列支吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能公共实训基地的服务能力和管理经费可以从培训资金中列支吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能公共实训基地的服务能力和管理经费可以从培训资金中列支吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能公共实训基地的服务能力和管理经费可以从培训资金中列支吗？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#001": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "直接问"
+  },
+  {
+   "question": "办理流程",
+   "question_type": "对比问"
+  },
+  {
+   "question": "资格条件",
+   "question_type": "直接问"
+  },
+  {
+   "question": "时间期限",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#002": [
+  {
+   "question": "职业技能培训监管工作如何规范？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴资金如何监管？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴资金如何发放？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴资金发放条件有哪些？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "职业技能培训补贴资金发放时间有什么限制？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业技能培训补贴资金发放方式有哪些？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#007": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴需要什么条件",
+   "question_type": "条件问"
+  },
+  {
+   "question": "补贴能拿多久",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴需要什么材料",
+   "question_type": "条件问"
+  }
+ ],
+ "tj_supervise_2022#008": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "直接问"
+  },
+  {
+   "question": "办理流程",
+   "question_type": "直接问"
+  },
+  {
+   "question": "时间期限",
+   "question_type": "直接问"
+  },
+  {
+   "question": "对比不同情形",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_supervise_2022#009": [
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训的范围和标准是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "师资配备情况怎么样？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "教学计划实施情况如何？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#014": [
+  {
+   "question": "专项检查的频率是？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "专项检查的周期是？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "专项检查是否定期进行？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "专项检查是否不定期进行？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "专项检查是否按照上级部署进行？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "专项检查是否根据工作需要进行？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#018": [
+  {
+   "question": "民办职业培训机构培训质量评估结果如何进行对比？",
+   "question_type": "直接问|口语化|对比问"
+  }
+ ],
+ "tj_supervise_2022#020": [
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构违规怎么办？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构违规会有什么后果？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构违规会被怎样处理？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#022": [
+  {
+   "question": "培训机构办学条件达不到培训要求能拿补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构未按教学计划开展培训能拿补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构使用未申报教师能拿补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构未在注册场所开展培训能拿补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构未按规定提供培训、考核视频录像资料能拿补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构对日常检查抽查、举报投诉查处拒不配合能拿补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构当年累计2次以上被约谈培训机构负责人的能拿补贴吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构经认定的其他违规行为能拿补贴吗？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#024": [
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "钱发给谁？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "多久能到账？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "培训机构违规合作开展补贴培训怎么办？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "培训机构弄虚作假套取补贴资金怎么办？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "培训机构因违法行为被行政处罚或法人刑事犯罪怎么办？",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_supervise_2022#026": [
+  {
+   "question": "培训机构被处理后，应在多少个工作日内将处理情况报市人社局？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "培训机构涉嫌违规问题，市人社局可以直接开展调查吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局可以根据工作需要，对培训机构涉嫌违规问题直接开展调查，是吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局可以根据工作需要，对培训机构涉嫌违规问题直接开展调查，是吗？（对比不同情形）",
+   "question_type": "对比问"
+  },
+  {
+   "question": "市人社局可以根据工作需要，对培训机构涉嫌违规问题直接开展调查，是吗？（对比不同情形）",
+   "question_type": "直接问"
+  },
+  {
+   "question": "市人社局可以根据工作需要，对培训机构涉嫌违规问题直接开展调查，是吗？（对比不同情形）",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_supervise_2022#029": [
+  {
+   "question": "补贴培训监管情况每半年向市人社局报告一次吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训监管情况每月向市人社局报告一次吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训监管情况是否每半年向市人社局报告一次？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训监管情况是否每月向市人社局报告一次？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴培训监管情况是否每半年向市人社局报告一次？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "补贴培训监管情况是否每月向市人社局报告一次？",
+   "question_type": "条件问"
+  }
+ ],
+ "tj_supervise_2022#034": [
+  {
+   "question": "本办法施行后，区人社局应在多少日内制定本区域职业技能培训监督管理具体实施办法？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法施行后，市就业服务中心应在多少日内制定职业技能培训监管实施方案？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "本办法施行后，区人社局应根据本办法在多少日内制定本区域职业技能培训监督管理具体实施办法？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "本办法施行后，市就业服务中心应根据本办法在多少日内制定职业技能培训监管实施方案？",
+   "question_type": "条件问"
+  },
+  {
+   "question": "本办法施行后，区人社局应在多少日内制定本区域职业技能培训监督管理具体实施办法，市就业服务中心应在多少日内制定职业技能培训监管实施方案？",
+   "question_type": "对比问"
+  },
+  {
+   "question": "本办法施行后，区人社局应在多少日内制定本区域职业技能培训监督管理具体实施办法，市就业服务中心应在多少日内制定职业技能培训监管实施方案？",
+   "question_type": "对比问"
+  }
+ ],
+ "tj_ops_manual#004": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "未标注"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "未标注"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "未标注"
+  },
+  {
+   "question": "怎么签订协议",
+   "question_type": "未标注"
+  },
+  {
+   "question": "需要哪些材料",
+   "question_type": "未标注"
+  },
+  {
+   "question": "如何录入系统",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_ops_manual#005": [
+  {
+   "question": "企业主体职业备案需要哪些材料？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "院校主干专业备案需要哪些材料？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "企业主体职业备案流程是怎样的？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "院校主干专业备案流程是怎样的？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "企业主体职业和院校主干专业备案时间期限是多少？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "企业主体职业和院校主干专业备案对比不同情形时，有什么不同？",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_ops_manual#006": [
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "钱发给谁？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "多久能到账？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "培训后能拿什么证书？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "不同类培训证书人员可以混班申报吗？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "班期信息怎么填写？",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_ops_manual#008": [
+  {
+   "question": "海河教育园区内培训机构开展培训各经办环节，暂由市职培中心代为受理，补贴能拿多少？",
+   "question_type": "直接问|口语化|金额问"
+  },
+  {
+   "question": "海河教育园区内培训机构开展培训各经办环节，暂由市职培中心代为受理，补贴能拿多少？",
+   "question_type": "直接问|口语化|金额问"
+  },
+  {
+   "question": "海河教育园区内培训机构开展培训各经办环节，暂由市职培中心代为受理，补贴能拿多少？",
+   "question_type": "直接问|口语化|金额问"
+  },
+  {
+   "question": "海河教育园区内培训机构开展培训各经办环节，暂由市职培中心代为受理，补贴能拿多少？",
+   "question_type": "直接问|口语化|金额问"
+  },
+  {
+   "question": "海河教育园区内培训机构开展培训各经办环节，暂由市职培中心代为受理，补贴能拿多少？",
+   "question_type": "直接问|口语化|金额问"
+  },
+  {
+   "question": "海河教育园区内培训机构开展培训各经办环节，暂由市职培中心代为受理，补贴能拿多少？",
+   "question_type": "直接问|口语化|金额问"
+  }
+ ],
+ "tj_ops_manual#010": [
+  {
+   "question": "学员在参加完全部培训课程后，应填写培训过程确认书。",
+   "question_type": "直接问|口语化|条件问|对比问"
+  }
+ ],
+ "tj_ops_manual#011": [
+  {
+   "question": "职业培训的日常检查频率是怎样的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训的日常检查次数是怎样的？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训的日常检查需要现场检查吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训的日常检查需要视频回放核查吗？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训的日常检查需要多久进行一次？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "职业培训的日常检查需要多久进行两次？",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_ops_manual#015": [
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "钱发给谁？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "多久能到账？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "补贴申请流程是怎样的？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "不同情况下的补贴处理有什么区别？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "如何处理因账户信息错误导致的退款？",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_ops_manual#020": [
+  {
+   "question": "补贴能拿多少？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "钱发给谁？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "多久能到账？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "违规收费吗？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "随意缩减培训课时吗？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "培训检查不合格吗？",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_ops_manual#025": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "直接问"
+  },
+  {
+   "question": "补贴条件",
+   "question_type": "条件问"
+  },
+  {
+   "question": "补贴不同情形",
+   "question_type": "对比问"
+  },
+  {
+   "question": "补贴办理流程",
+   "question_type": "直接问"
+  }
+ ],
+ "tj_catalog_2024#001": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "未标注"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "未标注"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "未标注"
+  },
+  {
+   "question": "补贴标准是多少",
+   "question_type": "未标注"
+  },
+  {
+   "question": "补贴条件是什么",
+   "question_type": "未标注"
+  },
+  {
+   "question": "补贴流程是怎样的",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_catalog_2024#003": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "未标注"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "未标注"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "未标注"
+  },
+  {
+   "question": "补贴标准",
+   "question_type": "未标注"
+  },
+  {
+   "question": "不同职业补贴标准",
+   "question_type": "未标注"
+  },
+  {
+   "question": "补贴额度",
+   "question_type": "未标注"
+  }
+ ],
+ "tj_catalog_2026#002": [
+  {
+   "question": "A类职业（工种）技能评价的复杂程度最高",
+   "question_type": "直接问"
+  },
+  {
+   "question": "C类职业（工种）技能评价的复杂程度最低",
+   "question_type": "直接问"
+  },
+  {
+   "question": "不同职业（工种）技能评价的复杂程度有什么区别",
+   "question_type": "对比问"
+  },
+  {
+   "question": "A类职业（工种）技能评价的复杂程度最高",
+   "question_type": "直接问"
+  },
+  {
+   "question": "C类职业（工种）技能评价的复杂程度最低",
+   "question_type": "直接问"
+  },
+  {
+   "question": "A类职业（工种）技能评价和C类职业（工种）技能评价有什么区别",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#010": [
+  {
+   "question": "首次创办小微企业或从事个体经营，且所创办企业或个体工商户自工商登记注册之日起正常运营1年以上的离校2年内高校毕业生、就业困难人员、返乡入乡农民工，可给予一次性创业补贴的金额是多少？",
+   "question_type": "直接问|口语化|金额问"
+  },
+  {
+   "question": "首次创办小微企业或从事个体经营，且所创办企业或个体工商户自工商登记注册之日起正常运营1年以上的离校2年内高校毕业生、就业困难人员、返乡入乡农民工，可给予一次性创业补贴的资格条件有哪些？",
+   "question_type": "直接问|口语化|条件问"
+  },
+  {
+   "question": "首次创办小微企业或从事个体经营，且所创办企业或个体工商户自工商登记注册之日起正常运营1年以上的离校2年内高校毕业生、就业困难人员、返乡入乡农民工，可给予一次性创业补贴的办理流程是怎样的？",
+   "question_type": "直接问|口语化|办理流程问"
+  },
+  {
+   "question": "首次创办小微企业或从事个体经营，且所创办企业或个体工商户自工商登记注册之日起正常运营1年以上的离校2年内高校毕业生、就业困难人员、返乡入乡农民工，可给予一次性创业补贴的时间期限是多久？",
+   "question_type": "直接问|口语化|时间期限问"
+  },
+  {
+   "question": "首次创办小微企业或从事个体经营，且所创办企业或个体工商户自工商登记注册之日起正常运营1年以上的离校2年内高校毕业生、就业困难人员、返乡入乡农民工，可给予一次性创业补贴与其他情形相比，有什么不同？",
+   "question_type": "直接问|口语化|对比问"
+  }
+ ],
+ "national_fund_2023#011": [
+  {
+   "question": "社会保险补贴的对象有哪些？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "社会保险补贴的标准是多少？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "社会保险补贴的期限有多长？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "社会保险补贴的申请条件是什么？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "社会保险补贴的申请流程是怎样的？",
+   "question_type": "未标注"
+  },
+  {
+   "question": "社会保险补贴的申请需要提交哪些材料？",
+   "question_type": "未标注"
+  }
+ ],
+ "national_fund_2023#016": [
+  {
+   "question": "就业补助资金补贴对比不同情形",
+   "question_type": "直接问|口语化|对比问"
+  }
+ ],
+ "national_fund_2023#017": [
+  {
+   "question": "就业补助资金不得用于哪些支出",
+   "question_type": "直接问"
+  },
+  {
+   "question": "不得对机关事业单位在编人员发放本办法中的补贴",
+   "question_type": "直接问"
+  },
+  {
+   "question": "个人、单位按照本办法申领获得的补贴资金,具体用途可由申请人或申请单位确定,不受本条规定限制",
+   "question_type": "直接问"
+  },
+  {
+   "question": "不得对机关事业单位在编人员发放本办法中的补贴",
+   "question_type": "直接问"
+  },
+  {
+   "question": "不得对机关事业单位在编人员发放本办法中的补贴",
+   "question_type": "直接问"
+  },
+  {
+   "question": "不得对机关事业单位在编人员发放本办法中的补贴",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#022": [
+  {
+   "question": "就业补助资金预计数何时下达？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金预算何时下达？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "省级财政部门收到中央财政就业补助资金预算后应在多少日内正式下达到市、县级财政部门和人力资源社会保障部门？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "地方各级财政、人力资源社会保障部门收到中央财政转移支付预算时应核对无误后再下达，这个无误的标准是什么？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "地方各级财政、人力资源社会保障部门应对其使用的就业补助资金提出明确的资金管理要求，及时组织实施各项就业创业政策，这个资金管理要求包括哪些方面？",
+   "question_type": "直接问"
+  },
+  {
+   "question": "地方各级财政、人力资源社会保障部门不得擅自分配处置存疑的转移支付资金，这个存疑的转移支付资金包括哪些方面？",
+   "question_type": "直接问"
+  }
+ ],
+ "national_fund_2023#028": [
+  {
+   "question": "补贴能拿多少",
+   "question_type": "直接问"
+  },
+  {
+   "question": "钱发给谁",
+   "question_type": "直接问"
+  },
+  {
+   "question": "多久能到账",
+   "question_type": "直接问"
+  },
+  {
+   "question": "办理流程",
+   "question_type": "对比问"
+  },
+  {
+   "question": "时间期限",
+   "question_type": "直接问"
+  },
+  {
+   "question": "对比不同情形",
+   "question_type": "对比问"
+  }
+ ],
+ "national_fund_2023#031": [
+  {
+   "question": "就业补助资金管理办法解释权",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法具体实施办法",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的解释",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的实施办法",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的具体实施办法",
+   "question_type": "直接问"
+  },
+  {
+   "question": "就业补助资金管理办法的管理办法",
+   "question_type": "直接问"
+  }
+ ]
+}

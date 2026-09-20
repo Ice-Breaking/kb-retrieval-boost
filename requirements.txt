@@ -1,0 +1,16 @@
+# 基础依赖：语料构建、BM25 双索引、向量与重排评测、报表生成
+jieba>=0.42.1
+rank-bm25>=0.2.2
+numpy>=1.26,<3
+matplotlib>=3.8
+pypdf>=4.0
+python-docx>=1.1
+
+# 可选：使用云端大模型后端（LLM_BACKEND=dashscope）
+openai>=1.0
+
+# 可选：在带 GPU 的环境使用模型（重排 / 向量检索 / 本地小模型）
+modelscope>=1.20
+transformers>=4.40
+torch>=2.1
+accelerate>=0.30
