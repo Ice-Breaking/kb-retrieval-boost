@@ -1,3 +1,34 @@
+---
+license: Apache License 2.0
+tags: []
+tasks:
+- text-ranking
+
+#model-type:
+##如 gpt、phi、llama、chatglm、baichuan 等
+#- gpt
+
+#domain:
+##如 nlp、cv、audio、multi-modal
+#- nlp
+
+#language:
+##语言代码列表 https://help.aliyun.com/document_detail/215387.html?spm=a2c4g.11186623.0.0.9f8d7467kni6Aa
+#- cn 
+
+#metrics:
+##如 CIDEr、Blue、ROUGE 等
+#- CIDEr
+
+#tags:
+##各种自定义，包括 pretrained、fine-tuned、instruction-tuned、RL-tuned 等训练方法和其他
+#- pretrained
+
+#tools:
+##如 vllm、fastchat、llamacpp、AdaSeq 等
+#- vllm
+---
+
 # kb-retrieval-boost
 
 面向**中文政策知识库**的检索质量优化工具包：把"用户的口语化提问"与"政策条文的书面表述"之间的鸿沟填平，并让最终返回的答案片段排序更准。
@@ -198,5 +229,4 @@ python src/rerank_compare.py --reranker bge --stage1 bm25
 ## 9. License
 
 Apache-2.0（见 LICENSE）。语料来自公开政策文件，仅用于检索技术研究。
-
 
