@@ -197,18 +197,19 @@ LLM_BACKEND=transformers HF_LLM_MODEL=Qwen/Qwen2.5-1.5B-Instruct \
 结论：Mock 重排器基于词面重合度，无法区分高级别相似的候选文档，排序无实质改善（符合预期）。
 见 `results/rerank_summary_mock_bm25.png`、`results/rerank_cases_mock_bm25.png`。
 
-#### 7.2.2 bge-reranker-base（正式重排，需在 ModelScope GPU 环境运行）
-
-**待运行**：将在 ModelScope Notebook（GPU 环境）运行，模型缓存目录建议设为 `/mnt/workspace/models`，结果填入此处。
+#### 7.2.2 bge-reranker-base（正式重排，ModelScope GPU 环境已运行）
 
 | 指标 | 仅粗排 | 粗排 + bge-reranker-base | 变化 |
 | --- | --- | --- | --- |
-| Top-1 命中率 | 56.0% | 待填写 | |
-| Top-3 命中率 | 80.0% | 待填写 | |
-| Top-5 命中率 | 80.0% | 待填写 | |
-| MRR | 0.679 | 待填写 | |
+| Top-1 命中率 | 56.0% | **76.0%** | **+20.0pp** |
+| Top-3 命中率 | 80.0% | **84.0%** | **+4.0pp** |
+| Top-5 命中率 | 80.0% | **92.0%** | **+12.0pp** |
+| MRR | 0.679 | **0.818** | **+0.139** |
 
-预计效果：bge-reranker-base 为交叉编码器，能捕捉 query 与文档的细粒度语义相关性，预计 Top-1 命中率显著提升。
+结论：bge-reranker-base 作为交叉编码器，能捕捉 query 与文档的细粒度语义相关性，
+8 条提问名次提升（如"考试费报销"类术语差异提问从国家级办法纠正到市级办法对应条款），
+单条提问平均重排耗时 175ms。
+见 `results/rerank_summary_bge_bm25.png`、`results/rerank_cases_bge_bm25.png`。
 **运行方式**：
 ```bash
 pip install -r requirements.txt
