@@ -201,7 +201,7 @@ def report(result: dict, records: list, cache: dict, num_questions: int, top_k: 
         note=(f"知识库 {len(records)} 个切片，每切片生成 {num_questions} 个口语化问题，"
               f"问题索引共 {sum(len(v) for v in cache.values())} 条；测试集 {len(rows)} 条"
               f"（含口语化提问、术语差异、版本时效、规则冲突等考点）；括号内为相对原文索引的 MRR 变化"),
-        highlight_rows=[1, 2])
+        highlight_rows=[1, 2], col_widths=[0.36, 0.16, 0.16, 0.16, 0.16])
 
     detail = []
     for i, row in enumerate(rows, 1):

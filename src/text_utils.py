@@ -127,7 +127,7 @@ def render_table_png(title: str, headers: list, rows: list, path, note: str = No
         fig.text(0.5, 0.015, note, ha="center", fontsize=8, color="#555555")
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    fig.savefig(path, bbox_inches="tight", facecolor="white")
+    fig.savefig(path, bbox_inches="tight", pad_inches=0.35, facecolor="white")
     plt.close(fig)
     print(f"[报表] 已生成: {path}")
     return path
